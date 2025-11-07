@@ -43,7 +43,6 @@
     "@blackamda/telegram-image-url": "1.0.0",
     "@sl-code-lords/si-subdl" : "^1.1.1",
     "@sl-code-lords/movie-api":"1.0.0",
-    "pixaldrain-sinhalasub": "git+https://github.com/DarkMakerofc/pixaldrain-sinhalasub.git",
     "caliph-api": "1.0.1",
     "@dark-yasiya/yt-dl.js": "latest",
     "file-type": "^16.5.3",
